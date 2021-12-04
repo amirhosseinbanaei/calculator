@@ -1,6 +1,6 @@
 # calculator-project
 
-<h2>Project UI</h2>
+Project UI
 
 <img src="https://raw.githubusercontent.com/amirhosseinbanaei/calculator-project/main/ui%20img.jpg" style="margin: 0 auto">
 
