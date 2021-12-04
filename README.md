@@ -1,7 +1,7 @@
 # calculator-project
 
 <div align="center">
-  <h1>Project Online Preview</h1>
+  <h1>Online Preview</h1>
   
   <h5>Online Calculator project preview :</h5>
 
