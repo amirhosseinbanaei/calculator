@@ -2,4 +2,4 @@
 
 Online Calculator project preview :
 
-<a href="#">Click here</a>
+<a href="https://elegant-booth-6b23e6.netlify.app/">Click here</a>
