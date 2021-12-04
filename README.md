@@ -11,7 +11,7 @@
 
 <div align="center">
   
-  <h1>UI Project</h1>
+  <h1>Project UI</h1>
   
   <img src="https://raw.githubusercontent.com/amirhosseinbanaei/calculator-project/main/ui%20image.jpg">
   </div>
