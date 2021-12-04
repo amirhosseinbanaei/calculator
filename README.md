@@ -7,7 +7,7 @@
 
 <a href="https://elegant-booth-6b23e6.netlify.app/">Click here</a>
   </div>
-
+<hr>
 <div align="center">
   
   <h2>UI Project</h2>
