@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  Project UI
+  <h2>UI Project</h2>
   
   <img src="https://raw.githubusercontent.com/amirhosseinbanaei/calculator-project/main/ui%20image.jpg">
   </div>
