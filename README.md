@@ -1,8 +1,11 @@
 # calculator-project
 
-Project UI
+
 
 <div align="center">
+  
+  Project UI
+  
   <img src="https://raw.githubusercontent.com/amirhosseinbanaei/calculator-project/main/ui%20image.jpg">
   </div>
 
