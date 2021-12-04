@@ -3,7 +3,7 @@
 Project UI
 
 <div align="center">
-<!--   <img src="https://raw.githubusercontent.com/amirhosseinbanaei/calculator-project/main/ui%20img.jpg" style="border-radius:30px"> -->
+  <img src="https://raw.githubusercontent.com/amirhosseinbanaei/calculator-project/main/ui%20image.jpg">
   </div>
 
 Online Calculator project preview :
