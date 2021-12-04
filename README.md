@@ -2,7 +2,7 @@
 
 Project UI
 
-<img src="https://raw.githubusercontent.com/amirhosseinbanaei/calculator-project/main/ui%20img.jpg" style="margin: 0 auto">
+<img src="https://raw.githubusercontent.com/amirhosseinbanaei/calculator-project/main/ui%20img.jpg" style="margin: auto;">
 
 Online Calculator project preview :
 
