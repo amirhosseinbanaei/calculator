@@ -5,7 +5,7 @@
   
   <h5>Online Calculator project preview :</h5>
 
-<a href="https://elegant-booth-6b23e6.netlify.app/">Click here</a>
+<a href="https://calculator.amirhosseinbanaei.ir/">Click here</a>
   </div>
 
 
